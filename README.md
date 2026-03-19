@@ -26,6 +26,10 @@ Without Panopticon, real money competitive gaming is a scam. With it, skill actu
 - [ ] Backgammon
 - [ ] Durak
 - [ ] Mahjong
+- [ ] Minesweeper
+- [ ] Sudoku
+- [ ] 2048
+- [ ] TypeRacer
 
 ## Current Status
 
